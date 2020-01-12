@@ -1,0 +1,76 @@
+#ed-img {
+
+margin:25px 3px 3px 3px;
+  display: block;
+  height:300px;
+  width:400px;
+  border-color: #eceff1;
+  border-width: 5px;
+  border-style: double;
+  border-radius:10px;
+
+}
+body {
+
+	background:#e0f2f1;
+  background:url("https://1.bp.blogspot.com/-8v5m59mVIAg/UNvwFNDVLXI/AAAAAAAAbCg/NjrnZXZtGfM/s1600/Rahul+Dravid+18.jpg") no-repeat  ;
+  background:cover;
+  background-size: 100% 100%;
+}
+#main{
+
+  background-color: rgba(178, 223, 219, 0.81);
+  margin: 20px;
+}
+.title{
+
+  font-size: 45px;
+	line-height: 50px;
+	font-family: verdana;
+}
+.hrid{
+
+  background-color:#ad1457; height: 1px; border: 0;
+}
+.intro{
+
+  font-size:16px;
+  font-weight:500;
+  text-align:justify;
+}
+.career{
+
+  font-size:16px;
+  font-weight:500;
+  text-align:justify;
+}
+.timeline{
+
+  font-weight:500;
+  font-size:16px;
+}
+
+#pg{
+
+  font-weight:900;
+  font-size:18px;
+font-style:italic;
+  line-height:40px;
+}
+dd{
+
+  color:#006064;
+  font-weight:bold;
+}
+#cursdd{
+
+  color:#d84315;
+  font-style:italic;
+}
+.foo{
+
+  background-color:#ef5350;
+  margin:20px;
+  padding:5px;
+
+}
